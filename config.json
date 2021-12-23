@@ -1,0 +1,8 @@
+{
+    "accessKey": "",
+    "secretAccessKey": "",
+    "bucketName": "bucketname",
+    "region": "ap-region-1",
+    "endpoint": "https://s3.wasabisys.com",
+    "presignedURLExpiration": 3600
+}
